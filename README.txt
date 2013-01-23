@@ -31,4 +31,8 @@ Developers:
 
 Developer Notes:
 
+- Basic Windows TCP Socket programming: http://bit.ly/FQcVbl
+- MFC GUI programming with Visual Studio: http://www.cs.sjsu.edu/faculty/pearce/mfc/
+- Forum on C++ Socket programming: http://www.cplusplus.com/forum/general/58677/
+- Beej's Guide to Network Programming: http://beej.us/guide/bgnet/output/html/multipage/index.html
 
