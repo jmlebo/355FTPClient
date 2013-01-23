@@ -35,4 +35,4 @@ Developer Notes:
 - MFC GUI programming with Visual Studio: http://www.cs.sjsu.edu/faculty/pearce/mfc/
 - Forum on C++ Socket programming: http://www.cplusplus.com/forum/general/58677/
 - Beej's Guide to Network Programming: http://beej.us/guide/bgnet/output/html/multipage/index.html
-
+- Getting started with Winsock: http://msdn.microsoft.com/en-us/library/windows/desktop/ms738545(v=vs.85).aspx
