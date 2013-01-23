@@ -29,8 +29,6 @@ Developers:
 - Dylan
 - Jared
 
-
-
-
+Developer Notes:
 
 
